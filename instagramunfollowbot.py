@@ -41,7 +41,7 @@ class InstagramUnfollowBot():
     def unfollow(self):
         follower_list = self.driver.find_elements_by_css_selector('button') # get the list of followers
         cnt = 0
-        for people in range( 1 , len(follower_list) ):
+        for people in range( 1 , 100000 ):
             if( follower_list[people].text == 'Following' ):
                 cnt = cnt + 1
                 follower_list[people].click()
