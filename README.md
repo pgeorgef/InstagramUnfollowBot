@@ -2,7 +2,7 @@
 
 ## Prerequisites
 
-Python 3 
+Python 3  
 Selenium
 
 ## How to use
