@@ -7,7 +7,7 @@ Selenium
 
 ## How to use
 
-Replace 'yourusername' with your username and 'yourpassword' with your password in the .py file and compile 
+Replace 'yourusername' with your username and 'yourpassword' with your password in the .py file and run the script.
 
 ## TODO
 
